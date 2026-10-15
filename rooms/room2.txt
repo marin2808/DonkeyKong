@@ -1,0 +1,11 @@
+#2;room2.txt
+WPG  G B  
+WWWWWWWWWS
+         S
+SWWW tt WW
+S         
+SWWWWW  WW
+S         
+WWWWWWWSWW
+       S H
+WWWWWWWWWW
