@@ -1,4 +1,4 @@
-# Donkey Kong: Jogo em Java
+# Donkey Kong: Jogo em Java(POO)
 
 Jogo inspirado no clássico **Donkey Kong**, desenvolvido em Java com programação orientada a objetos. O jogador controla o **Manel**, que tem de atravessar três salas cheias de perigos, desviar-se de obstáculos, escapar ao Donkey Kong e chegar à porta para resgatar a princesa — o mais depressa possível.
 
